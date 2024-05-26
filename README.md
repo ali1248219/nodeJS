@@ -7,5 +7,5 @@ day 1
 26 - 05 - 2024
 
 
-install nodeJS
-use vscode to open nodeJS
+1. install nodeJS
+2. use vscode to open nodeJS
